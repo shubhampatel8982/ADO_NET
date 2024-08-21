@@ -1,0 +1,12 @@
+/Users/ranjit/projects/DAL/DTO/bin/Debug/net7.0/DTO.deps.json
+/Users/ranjit/projects/DAL/DTO/bin/Debug/net7.0/DTO.dll
+/Users/ranjit/projects/DAL/DTO/bin/Debug/net7.0/DTO.pdb
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/DTO.csproj.AssemblyReference.cache
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/DTO.AssemblyInfoInputs.cache
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/DTO.AssemblyInfo.cs
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/DTO.csproj.CoreCompileInputs.cache
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/DTO.dll
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/refint/DTO.dll
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/DTO.pdb
+/Users/ranjit/projects/DAL/DTO/obj/Debug/net7.0/ref/DTO.dll
